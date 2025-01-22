@@ -13,7 +13,6 @@ Store Task status - New, In Progress, Completed, Cancelled
 When Added the task will be by default in New state
 """
 li = []
-l = len(li)
 print("Welcome to Todo List App")
 
 while True:
