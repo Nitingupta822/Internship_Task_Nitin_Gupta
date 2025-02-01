@@ -6,21 +6,7 @@ The purpose of this project is to analyze the sales performance of a retail chai
 ## 2. Data Overview
 The dataset consists of sales transactions with attributes such as:
 
-Product Name
-
-Month
-
-City
-
-Total Sales
-
-Profit Margin
-
-Customer Count
-
-Category (Furniture, Electronics)
-
-Gender Distribution
+Product Name,Month,City,Total Sales,Profit Margin,Customer Count,Category (Furniture, Electronics) and Gender Distribution
 
 ## 3. Key Findings
 
@@ -61,13 +47,9 @@ Product-specific insights are essential for demand planning and inventory manage
 ## 4. Performance Metrics
 
 Total Revenue: 1K
-
 Profit Margin: 4.25
-
 Customer Count: 10
-
 Top-Selling Product: Chair
-
 Highest Sales City: Rewa
 
 ## Question 
@@ -103,7 +85,7 @@ Enhance Regional Strategy: Rewa shows a high concentration of sales; expanding p
 
 Improve Product Mix: Electronics have slightly higher sales than furniture, indicating a balanced product portfolio is essential.
 
-6. Conclusion
+## 6. Conclusion
 This sales analysis provides valuable insights into product performance, customer demographics, and regional trends. Leveraging these insights can help in strategic decision-making, enhancing revenue generation, and optimizing business operations. Further analysis with more data points can improve prediction accuracy and business efficiency.
 
 
