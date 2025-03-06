@@ -55,8 +55,8 @@ This report presents an analytical overview of sales, profit, and customer segme
   - Sales growth visible over time, indicating potential seasonal trends.
 
 **8. DashBoard**
-![DashBoard1](https://github.com/user-attachments/assets/58a51344-fb6a-4330-92cc-2ea981dd800f)
 ![DashBoard2](https://github.com/user-attachments/assets/7eaa1158-8ada-4de6-980f-e6ce23f0535c)
+![DashBoard1](https://github.com/user-attachments/assets/58a51344-fb6a-4330-92cc-2ea981dd800f)
 
 **8. Recommendations**
 - Increase focus on high-profit categories like Electronics and Furniture.
