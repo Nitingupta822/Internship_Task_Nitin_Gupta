@@ -58,14 +58,14 @@ This report presents an analytical overview of sales, profit, and customer segme
 ![DashBoard2](https://github.com/user-attachments/assets/7eaa1158-8ada-4de6-980f-e6ce23f0535c)
 ![DashBoard1](https://github.com/user-attachments/assets/58a51344-fb6a-4330-92cc-2ea981dd800f)
 
-**8. Recommendations**
+**9. Recommendations**
 - Increase focus on high-profit categories like Electronics and Furniture.
 - Adjust discounting strategies for categories with low or negative profit margins.
 - Improve sales penetration in underperforming regions.
 - Encourage repeat purchases to improve customer retention and lifetime value.
 - Enhance inventory management for top-performing products.
 
-**9. Conclusion**
+**10. Conclusion**
 This analysis provides insights into sales trends, profit margins, and customer segments. By leveraging this data, the business can optimize pricing, marketing, and inventory strategies to drive growth and profitability.
 
 
