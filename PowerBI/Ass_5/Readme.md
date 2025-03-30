@@ -71,8 +71,6 @@ This project focuses on analyzing hospital equipment data using a Snowflake data
 
 ---
 
----
-
 ### **8. Conclusion**
 This project successfully analyzed hospital equipment data to offer insights into cost, category distribution, manufacturer spread, and purchasing trends. Snowflake provided a robust cloud-based solution for efficient data processing and analysis. Future improvements can include real-time analytics and AI-driven cost optimization models.
 
