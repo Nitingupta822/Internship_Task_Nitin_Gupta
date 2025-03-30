@@ -7,7 +7,7 @@ This project focuses on analyzing hospital equipment data using a Snowflake data
 
 ### **2. Tools and Technologies Used**
 - **Database:** Snowflake
-- **Visualization:** Power BI / Tableau
+- **Visualization:** Power BI 
 ---
 
 ### **3. Key Objectives**
