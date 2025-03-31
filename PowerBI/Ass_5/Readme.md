@@ -1,81 +1,68 @@
-#                                                Hospital Equipment Analysis Dashboard
+#                                                        Sales Performance Analytics Dashboard
 
 ### **1. Introduction**
-This project focuses on analyzing hospital equipment data using a Snowflake database. The dashboard provides insights into equipment costs, categories, manufacturers, and purchase trends. As a Data Analyst, our role was to extract, transform, and visualize the data for better decision-making.
+The purpose of this project is to analyze and visualize sales data using Power BI to identify key trends, patterns, and insights that drive business performance. The dashboard provides an interactive and dynamic way for stakeholders to explore data for decision-making.
+
+### **2. Objectives**
+- To track total sales performance over time.
+- To analyze sales trends by product, customer, and region.
+- To understand profitability metrics and identify areas of improvement.
+- To provide an interactive dashboard for better decision-making.
+
+### **3. Dataset Description**
+The dataset used for this project consists of transactional sales data, including:
+- **Year, Month** – Sales timeline.
+- **Total Sales, Total Orders, Total Quantity** – Key sales metrics.
+- **Product** – Different product categories.
+- **City** – Sales distribution across different locations.
+- **Sales Channel** – Sales distribution across Online, Wholesale, and Retail.
+- **Customer Name** – Customer-wise sales insights.
+
+### **4. Key Visualizations and Insights**
+#### **A. Main Dashboard Overview**
+- **KPIs (Key Performance Indicators)**:
+  - Total Sales: $2.59M
+  - Sum of Profit: $0.77M
+  - Profit Margin: 29.90
+  - Total Product Sold: 5.09K
+
+- **Total Sales and Previous Year Sales by Product**:
+  - The highest revenue-generating product category is **Vitamins**, followed by **Tablets and Pulse Oximeters**.
+
+- **Total Sales by City**:
+  - **Chicago (20.41%) and Phoenix (23.24%)** contribute significantly to total sales.
+
+- **Sales Channel Analysis**:
+  - **Wholesale (35.68%) has the highest sales contribution, followed by Online (36.94%) and Retail (27.38%)**.
+  
+#### **B. Time-Series Analysis (Page 3)**
+- **Sales trends over time**:
+  - There is a **steady increase in sales**, with seasonal fluctuations visible across months.
+  - Forecasting trends show potential future growth.
+
+#### **C. Sales Breakdown by City and Channel (Page 2)**
+- **Sales by City:**
+  - Los Angeles and Phoenix lead in sales volume.
+- **Sales Channel Performance:**
+  - Online sales have performed better compared to other channels.
+
+### **5. Business Insights and Recommendations**
+- **Top-performing cities like Phoenix and Chicago should be prioritized for marketing and inventory optimization.**
+- **Sales are seasonal, with peaks in certain months – targeted promotions can be introduced during low-performing periods.**
+- **Wholesale sales contribute significantly; hence, more incentives can be provided to B2B clients.**
+- **Customer segmentation should be explored to identify high-value customers and enhance retention strategies.**
+
+### **6. DashBoard**
+![Main_Dashboard](https://github.com/user-attachments/assets/c483a0f4-92a8-4c93-a807-e1459ded3ef9)
+![Page_2](https://github.com/user-attachments/assets/c557fa28-22c7-4a1e-8168-14389148a749)
+![Page_3](https://github.com/user-attachments/assets/6cfdb681-50a2-4f24-8645-0e94b7c4c8c6)
+
+### **7. Conclusion**
+The Sales Performance Analytics Dashboard provides comprehensive insights into sales trends, city-wise contributions, and channel-wise performance. Using data-driven strategies, the business can optimize operations, increase revenue, and improve customer engagement.
 
 ---
 
-### **2. Tools and Technologies Used**
-- **Database:** Snowflake
-- **Visualization:** Power BI 
----
 
-### **3. Key Objectives**
-1. **Track Hospital Equipment Inventory** – Identify the count and cost of equipment.
-2. **Categorize Equipment** – Analyze diagnostic, imaging, laboratory, monitoring, surgical, and therapeutic categories.
-3. **Monitor Manufacturer Distribution** – Examine equipment distribution across different manufacturers.
-4. **Analyze Purchase Trends** – Evaluate purchase trends over time to understand procurement patterns.
 
----
-
-### **4. Data Overview and Metrics**
-- **Total Equipment Count:** 500
-- **Total Equipment Cost:** $119M
-- **Top Equipment by Cost:**
-  - **Pulse Oximeter:** $65.6M
-  - **Ultrasound Machine:** $60.4M
-  - **Anesthesia Machine:** $55.8M
-  - **MRI Scanner:** $52.2M
-  - **Fluoroscopy Machine:** $49.4M
-- **Equipment Distribution by Category:**
-  - **Diagnostic:** 22%
-  - **Imaging:** 20%
-  - **Laboratory:** 18%
-  - **Monitoring:** 16%
-  - **Surgical:** 14%
-  - **Therapeutic:** 10%
-
----
-
-### **5. Dashboard Analysis**
-#### **5.1 Category Analysis**
-- The dashboard categorizes equipment into six main categories.
-- **Diagnostic and Imaging equipment** account for the highest cost and quantity.
-- **Laboratory and Therapeutic equipment** have moderate distribution.
-- **Monitoring and Surgical categories** show a balanced distribution.
-
-#### **5.2 Manufacturer Analysis**
-- The pie chart highlights that **no single manufacturer dominates the market**, ensuring a diversified procurement strategy.
-- Equipment is evenly distributed among multiple manufacturers, with no manufacturer exceeding 6% share.
-
-#### **5.3 Purchase Date Trends**
-- Equipment purchase patterns show spikes in **2017, 2020, and 2023**, suggesting major procurement cycles.
-- Seasonal and budget-based procurement trends are visible.
-
----
-
-### **6. Insights and Recommendations**
-- **Optimize Procurement Strategy:** Since purchases peak every 3-4 years, hospitals should plan bulk purchases to negotiate better pricing.
-- **Diversify Suppliers:** A wide range of manufacturers contributes to the inventory. It is advisable to compare supplier reliability and cost-effectiveness.
-- **Monitor High-Cost Equipment:** The **top five high-cost equipment** should be regularly assessed for ROI and utilization.
-- **Predict Future Purchases:** Using Snowflake’s **predictive analytics**, hospitals can forecast the next peak procurement period and budget accordingly.
-
----
-
-### **7. DashBoard**
-![Main_Page](https://github.com/user-attachments/assets/ab42ddbf-b9eb-427b-9af4-69446a4c0bce)
-![Sec_Page](https://github.com/user-attachments/assets/6fca5c61-eb47-424f-b530-d769c1f992e2)
-
----
-
-### **8. Conclusion**
-This project successfully analyzed hospital equipment data to offer insights into cost, category distribution, manufacturer spread, and purchasing trends. Snowflake provided a robust cloud-based solution for efficient data processing and analysis. Future improvements can include real-time analytics and AI-driven cost optimization models.
-
----
-
-### **9. Future Scope**
-- Implement **Machine Learning models** for predictive maintenance and cost forecasting.
-- Enable **real-time dashboards** for dynamic procurement insights.
-- Expand analysis to include **regional and global procurement trends** for hospital equipment.
 
 
