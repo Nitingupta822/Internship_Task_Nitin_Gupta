@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Comprehensive Heart Health Dashboard</title>
+    <style>
+        .iframe-container {
+            position: relative;
+            width: 100%;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio (height / width * 100) */
+            height: 0;
+            overflow: hidden;
+        }
+
+        .iframe-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="iframe-container">
+    <iframe src="https://app.powerbi.com/reportEmbed?reportId=9acec4c9-4a39-469a-bfa8-bbd560f2861f&autoAuth=true&ctid=9a3ce786-fcd6-4919-a3c7-98767012d108" frameborder="0" allowFullScreen="true"></iframe>
+    </div>
+</body>
+</html>
