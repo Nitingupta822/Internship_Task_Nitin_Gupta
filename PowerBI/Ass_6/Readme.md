@@ -103,8 +103,11 @@ The dataset consists of **heart health records** with the following key variable
 
 ### **7.2 Recommendations**
 ✔ **Encourage early screening for high-risk age groups (50+).**
+
 ✔ **Promote lifestyle changes to reduce smoking & cholesterol levels.**
+
 ✔ **Monitor diabetic patients more closely for BP fluctuations.**
+
 ✔ **Optimize treatment strategies for severe chest pain cases.**
 
 ---
