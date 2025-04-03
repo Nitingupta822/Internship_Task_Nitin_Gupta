@@ -8,7 +8,7 @@
 4. What is the distribution of blood pressure levels among patients?
 5. What is the distribution of cholesterol levels among patients?
 
---
+---
 
 ## Risk Factors Analysis
 
@@ -18,7 +18,7 @@
 4. How does smoking status affect blood pressure and cholesterol levels?
 5. What is the relationship between smoking status and chest pain type?
 
---
+---
 
 ## Chest Pain & Symptoms
 
@@ -27,7 +27,7 @@
 3. How does chest pain type correlate with blood pressure and cholesterol levels?
 4. What is the average age of patients experiencing each chest pain type?
 
---
+---
 
 ## Treatment & Medical Intervention
 
@@ -38,7 +38,7 @@
 5. What is the most common treatment for patients with high cholesterol?
 6. What is the relationship between chest pain type and the type of treatment received?
 
---
+---
 
 
 
