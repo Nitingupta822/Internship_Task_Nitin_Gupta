@@ -1,1 +1,44 @@
+#                    Question
+
+## Demographics & General Overview
+
+1. What is the gender distribution of patients?
+2. What is the age distribution of patients?
+3. How does age correlate with different treatments?
+4. What is the distribution of blood pressure levels among patients?
+5. What is the distribution of cholesterol levels among patients?
+
+--
+
+## Risk Factors Analysis
+
+1.What percentage of patients have diabetes?
+2.How does diabetes correlate with blood pressure and cholesterol levels?
+3. What is the smoking status distribution among patients?
+4. How does smoking status affect blood pressure and cholesterol levels?
+5. What is the relationship between smoking status and chest pain type?
+
+--
+
+## Chest Pain & Symptoms
+
+1. What is the distribution of different chest pain types among patients?
+2. How does chest pain type vary by gender?
+3. How does chest pain type correlate with blood pressure and cholesterol levels?
+4. What is the average age of patients experiencing each chest pain type?
+
+--
+
+## Treatment & Medical Intervention
+
+1. What are the most common treatments administered?
+2. How does treatment type vary by age group?
+3. How does treatment type vary based on diabetes status?
+4. What is the most common treatment for patients with high blood pressure?
+5. What is the most common treatment for patients with high cholesterol?
+6. What is the relationship between chest pain type and the type of treatment received?
+
+--
+
+
 
