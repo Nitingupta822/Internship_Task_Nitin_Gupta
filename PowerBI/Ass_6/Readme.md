@@ -44,17 +44,17 @@ The dataset consists of **heart health records** with the following key variable
 ## **3. Data Analysis & Insights**
 
 ### **3.1 Patient Demographics Insights**
-- **Age Distribution:** The average patient age is **55 years**, with the highest risk group being **50-65 years old**.
-- **Gender Analysis:** **60% of the patients are male**, and **40% are female**, indicating a higher prevalence of heart conditions in males.
+- **Age Distribution:** The average patient age is **60 years**, with the highest risk group being **50-65 years old**.
+- **Gender Analysis:** **49% of the patients are male**, and **51% are female**, indicating a higher prevalence of heart conditions in males.
 
 ### **3.2 Blood Pressure & Cholesterol Insights**
-- **43.3% of patients have high BP**, with readings above **140 mmHg**.
-- **48% of patients have high cholesterol levels**, exceeding **200 mg/dL**.
-- **Patients with both high BP & cholesterol:** **32% (480 patients)**.
+- **64.7% of patients have high BP**, with readings above **140 mmHg**.
+- **40% of patients have high cholesterol levels**, exceeding **200 mg/dL**.
+- **Patients with both high BP & cholesterol:** **52% (480 patients)**.
 
 ### **3.3 Diabetes & Smoking Impact**
-- **33.3% of patients are diabetic**, and **65% of these have high BP**.
-- **30% of patients are smokers**, and **70% of smokers have high cholesterol**.
+- **51.3% of patients are diabetic**, and **64% of these have high BP**.
+- **45% of patients are smokers**, and **70% of smokers have high cholesterol**.
 - **Smokers are 50% more likely to report chest pain** compared to non-smokers.
 
 ### **3.4 Chest Pain & Treatment Insights**
