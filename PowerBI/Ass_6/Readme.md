@@ -29,13 +29,13 @@ The dataset consists of **heart health records** with the following key variable
 ### **2.2 Quantitative Summary**
 | Parameter                   | Value  |
 |----------------------------|--------|
-| Total Patients             | 1,500  |
-| Male Patients              | 900 (60%) |
-| Female Patients            | 600 (40%) |
-| Patients with High BP      | 650 (43.3%) |
-| Patients with High Cholesterol | 720 (48%) |
-| Patients with Diabetes     | 500 (33.3%) |
-| Smokers                    | 450 (30%) |
+| Total Patients             | 1,000  |
+| Male Patients              | 490 (49%) |
+| Female Patients            | 510 (51%) |
+| Patients with High BP      | 353 (64.70%) |
+| Patients with High Cholesterol | 599 (40.10%) |
+| Patients with Diabetes     | 483 (51.70%) |
+| Smokers                    | 450 (45%) |
 | Most Common Chest Pain Type | Type 2 (45%) |
 | Most Administered Treatment | Medication A |
 
@@ -68,12 +68,12 @@ The dataset consists of **heart health records** with the following key variable
 ## **4. Key Performance Indicators (KPIs)**
 | KPI                                   | Value  |
 |--------------------------------------|--------|
-| Total Patients                      | 1,500  |
-| Percentage of Patients with High BP | 43.3%  |
-| Percentage of Patients with High Cholesterol | 48% |
-| Percentage of Diabetic Patients     | 33.3%  |
+| Total Patients                      | 1,000  |
+| Percentage of Patients with High BP | 64.7%  |
+| Percentage of Patients with High Cholesterol | 40.10% |
+| Percentage of Diabetic Patients     | 51.3%  |
 | Most Common Treatment               | Medication A |
-| Average Age of Patients with Chest Pain | 55 years |
+| Average Age of Patients with Chest Pain | 60 years |
 
 ---
 
